@@ -4,7 +4,7 @@
 
 Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama)
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Creator of Pageres, Chalk, TodoMVC, Yeoman.
 - [Pascal Hartig](https://github.com/passy/ama)
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama)
 - [Arthur Verschaeve](https://github.com/arthurvr/ama)
