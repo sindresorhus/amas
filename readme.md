@@ -6,7 +6,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 
 - [Sindre Sorhus](https://github.com/sindresorhus/ama)
 - [Pascal Hartig](https://github.com/passy/ama)
-- [Stephen Sawchuck](https://github.com/stephenplusplus/ama)
+- [Stephen Sawchuk](https://github.com/stephenplusplus/ama)
 - [Arthur Verschaeve](https://github.com/arthurvr/ama)
 - [Mark Otto](https://github.com/mdo/ama)
 - [Zach Holman](https://github.com/holman/feedback)
