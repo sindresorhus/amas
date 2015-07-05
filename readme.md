@@ -10,6 +10,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery and TodoMVC.
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 
 -
 
