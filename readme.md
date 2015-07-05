@@ -8,8 +8,8 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery and TodoMVC.
-- [Mark Otto](https://github.com/mdo/ama)
-- [Zach Holman](https://github.com/holman/feedback)
+- [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
+- [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 
 -
 
