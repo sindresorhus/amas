@@ -11,6 +11,12 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Mark Otto](https://github.com/mdo/ama)
 - [Zach Holman](https://github.com/holman/feedback)
 
+-
+
+#### [Create your own AMA](https://github.com/sindresorhus/ama/fork)
+
+-
+
 
 ## License
 
