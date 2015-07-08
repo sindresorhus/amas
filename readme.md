@@ -1,6 +1,6 @@
 # Awesome & Marvelous Amas
 
-> AMA → Ask Me Anything!
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything!
 
 Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 
