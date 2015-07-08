@@ -16,7 +16,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 
 -
 
-#### [Create your own AMA](https://github.com/sindresorhus/ama/fork)
+#### [Create your own AMA!](create-ama.md)
 
 -
 
