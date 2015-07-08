@@ -19,7 +19,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 - [Paul Miller](https://github.com/paulmillr/ama) - Creator of Brunch.io, Chaplin, es6-shim and many npm modules. Entrepreneur & frequent traveler.
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
-
+- [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
 
 -
 
