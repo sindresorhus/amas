@@ -17,6 +17,8 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 - [Anselm Hannemann](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
+- [Paul Miller](https://github.com/paulmillr/ama) - Creator of Brunch.io, Chaplin, es6-shim and many npm modules. Entrepreneur & frequent traveler.
+
 
 -
 
