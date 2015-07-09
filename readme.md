@@ -26,6 +26,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
 - [Robert Haritonov](https://github.com/operatino/ama) - Front-end Team Lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
 - [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
+- 
 
 -
 
