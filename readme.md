@@ -23,6 +23,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Darrin Henein](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
 - [Cassie McDaniel](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.
 - [Wenjie Fan](https://github.com/DIYgod/ama) - Front-end Engineer for Linux Deepin, blogger of anotherhome.net.
+- [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
 - [Robert Haritonov](https://github.com/operatino/ama) - Front-end Team Lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
 
 
