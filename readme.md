@@ -19,7 +19,15 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 - [Paul Miller](https://github.com/paulmillr/ama) - Creator of Brunch.io, Chaplin, es6-shim and many npm modules. Entrepreneur & frequent traveler.
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
-- [Vishnu Ks](https://github.com/hackerkid/ama) - Experimentalist
+- [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
+- [Darrin Henein](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
+- [Cassie McDaniel](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.
+- [Wenjie Fan](https://github.com/DIYgod/ama) - Front-end Engineer for Linux Deepin, blogger of anotherhome.net.
+- [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
+- [Robert Haritonov](https://github.com/operatino/ama) - Front-end Team Lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
+- [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
+- [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
+- [Vishnu Ks](https://github.com/hckerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 
 
 -
