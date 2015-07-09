@@ -22,6 +22,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
 - [Darrin Henein](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
 - [Cassie McDaniel](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&&Tech, speaker and writer.
+- [Maxime Euzière](https://github.com/xem/ama) - Front-end hacker and JS code-golfer
 
 
 -
