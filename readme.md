@@ -29,6 +29,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 - [Nick Desaulniers](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
+- [Sam Saccone](https://github.com/samccone/ama) - 🐴  Human.
 
 
 -
