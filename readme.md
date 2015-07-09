@@ -27,6 +27,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Robert Haritonov](https://github.com/operatino/ama) - Front-end Team Lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
 - [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
 - [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
+- [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 
 
 -
