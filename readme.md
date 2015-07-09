@@ -28,7 +28,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Lim Chee Aun](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
 - [Darcy Clarke](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
-
+- [Sam Saccone](https://github.com/samccone/ama) - 🐴 Human
 
 -
 
