@@ -30,8 +30,9 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 - [Nick Desaulniers](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
 - [Henry Snopek](https://github.com/hhsnopek/ama) - Front-End Developer, University Student.
-- [Jesse cogollo](https://github.com/jessecogollo/ama) - Student at EAFIT. Javascript Developer at Talos Digital and Co-organizer at MongoDB-Medellin.
+- [Jesse cogollo](https://github.com/jessecogollo/ama) - Student at EAFIT. JavaScript Developer at Talos Digital and Co-organizer at MongoDB-Medellin.
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - Geometry vagrant.
+
 
 -
 
