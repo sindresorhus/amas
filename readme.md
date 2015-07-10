@@ -32,6 +32,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Henry Snopek](https://github.com/hhsnopek/ama) - Front-End Developer, University Student.
 - [Jesse cogollo](https://github.com/jessecogollo/ama) - Student at EAFIT. JavaScript Developer at Talos Digital and Co-organizer at MongoDB-Medellin.
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - Geometry vagrant.
+- [Drew Minns](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
 
 
 -
