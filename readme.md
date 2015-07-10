@@ -33,7 +33,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Jesse cogollo](https://github.com/jessecogollo/ama) - Student at EAFIT. JavaScript Developer at Talos Digital and Co-organizer at MongoDB-Medellin.
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - Geometry vagrant.
 - [Drew Minns](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
-- - [Heather Payne](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
+- [Heather Payne](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
 
 
 -
