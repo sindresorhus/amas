@@ -34,6 +34,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - Geometry vagrant.
 - [Drew Minns](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
 - [Heather Payne](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
+- [Ryan Christiani](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
 
 
 -
