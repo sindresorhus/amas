@@ -38,6 +38,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
 - [Patty Delgado](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
 - [Nicholas C. Zakas](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+- [Lance He](https://github.com/indigofeather/ama) - Full stack developer and speaker.
 
 
 -
