@@ -39,6 +39,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Patty Delgado](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
 - [Nicholas C. Zakas](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
 - [Lance He](https://github.com/indigofeather/ama) - Full stack developer and speaker.
+- [Derick Bailey](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
 
 
 -
