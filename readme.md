@@ -46,6 +46,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
 - [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer, creator of [CSSDeck](http://cssdeck.com).
 - [Bassam Ismail](https://github.com/skippednote/ama) - Front-end Architect at Axelerant. Polyglot. Unix & Tooling fanboi. 
+- [Matthew Mueller](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 
 
 -
