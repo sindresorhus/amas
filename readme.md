@@ -44,6 +44,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Benny Thomas](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 - [Hemanth.HM](https://github.com/hemanth/ama/) - A computer polyglot CLI, web and unix philosophy ❤️'r.
 - [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
+- [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer, creator of [CSSDeck](http://cssdeck.com).
 
 
 -
