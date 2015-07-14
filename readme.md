@@ -42,7 +42,7 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 - [Derick Bailey](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
 - [Andy Jiang](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
 - [Benny Thomas](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
-
+- [Hemanth.HM](https://github.com/hemanth/ama/) - A computer polyglot CLI, web and unix philosophy ❤️'r.
 
 -
 
