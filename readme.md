@@ -1,8 +1,8 @@
 # Awesome & Marvelous Amas
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything!
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
-Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
+#### Ask these people anything!
 
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Creator of Pageres, Chalk, TodoMVC, Yeoman.
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
@@ -55,6 +55,9 @@ Amas is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).
 #### [Create your own AMA!](create-ama.md)
 
 -
+
+
+*Fun: AMAs is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).*
 
 
 ## License
