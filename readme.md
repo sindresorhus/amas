@@ -51,6 +51,7 @@
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - CS & SE university student in Finland.
+- [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 
 
 -
