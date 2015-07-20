@@ -52,6 +52,7 @@
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - CS & SE university student in Finland.
 - [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
+- [Remy Sharp](https://github.com/remy/ama-n) - Creator of [jsbin](http://jsbin.com/), founder and curator of [ffconf](http://ffconf.org/).
 
 
 -
