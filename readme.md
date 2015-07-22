@@ -54,7 +54,7 @@
 - [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 - [Kyle Robinson Young](https://github.com/shama/ama) - Makes stuff and likes bears.
 - [Trent Oswald](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website](https://github.com/nodejs/iojs.org).
-
+- [Una Kravets](https://github.com/una/ama) - Front-End Developer, Sass things, Dev communities & Open Source Design.
 
 -
 
