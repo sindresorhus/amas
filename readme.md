@@ -53,7 +53,7 @@
 - [Lauri Tervonen](https://github.com/mollikka/ama) - CS & SE university student in Finland.
 - [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 - [Kyle Robinson Young](https://github.com/shama/ama) - Makes stuff and likes bears.
-- [Una Kravets](https://github.com/una/ama) - Front-End Developer, Sass things, Dev communities & Open Source Design
+- [Una Kravets](https://github.com/una/ama) - Front-End Developer, Sass things, Dev communities & Open Source Design.
 
 
 -
