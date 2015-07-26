@@ -56,6 +56,7 @@
 - [Trent Oswald](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website](https://github.com/nodejs/iojs.org).
 - [Una Kravets](https://github.com/una/ama) - Front-End Developer, Sass things, Dev communities & Open Source Design.
 - [Chris Missal](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover :heart:.
+- [Acho Arnold](https://github.com/najela/ama) - Full Stack Web Developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 
 
 -
