@@ -58,6 +58,7 @@
 - [Chris Missal](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover :heart:.
 - [Acho Arnold](https://github.com/najela/ama) - Full Stack Web Developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 - [Rob Furlong](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+- [Honza Bittner](https://github.com/HoBi/ama) - High school student, web developer, Sass and Polymer ❤️'r.
 
 
 -
