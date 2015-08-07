@@ -61,7 +61,7 @@
 - [Honza Bittner](https://github.com/HoBi/ama) - High school student, web developer, Sass and Polymer ❤️'r.
 - [Jan Sanchez](https://github.com/jansanchez/ama) - Front-End Developer. Creator of Css-url-versioner, Open source contributor.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
-- [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time and as a side project, I'm m	aking a tool for developing games with no coding required.
+- [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time and as a side project, I'm making a tool for developing games with no coding required.
 
 
 -
