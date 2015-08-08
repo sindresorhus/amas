@@ -1,4 +1,4 @@
-# Awesome & Marvelous Amas
+# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
@@ -61,7 +61,8 @@
 - [Honza Bittner](https://github.com/HoBi/ama) - High school student, web developer, Sass and Polymer ❤️'r.
 - [Jan Sanchez](https://github.com/jansanchez/ama) - Front-End Developer. Creator of Css-url-versioner, Open source contributor.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
-- [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time and as a side project, I'm making a tool for developing games with no coding required.
+- [Richard Littauer](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk. 
+- [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 
 
 -
