@@ -65,6 +65,11 @@
 - [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 
 
+#### Ask these organizations anything!
+
+- [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
+
+
 -
 
 #### [Create your own AMA!](create-ama.md)
