@@ -65,6 +65,7 @@
 - [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 - [JD Ballard](https://github.com/Qix-/ama) - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexps), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
+- [Mohamad Jahani](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, *nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7 :grinning::smirk:.
 
 
 #### Ask these organizations anything!
