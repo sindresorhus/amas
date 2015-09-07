@@ -68,6 +68,7 @@
 - [Mohamad Jahani](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, *nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7 :grinning::smirk:.
 - [Justin Miller](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+- [Kayla Daniels](https://github.com/kayladnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single mom. Brooklyn, NY.
 
 
 #### Ask these organizations anything!
