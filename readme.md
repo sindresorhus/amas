@@ -71,6 +71,7 @@
 - [Kayla Daniels](https://github.com/kayladnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single mom. Brooklyn, NY.
 - [Jeff Carouth](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
 - [Matthew Turland](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+- [Christopher Pitt](https://github.com/assertchris/amas) - [Writer and coder](http://assertchris.io), working at [SilverStripe](http://www.silverstripe.org).
 
 
 #### Ask these organizations anything!
