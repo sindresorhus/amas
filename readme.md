@@ -73,7 +73,7 @@
 - [Matthew Turland](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
 - [Christopher Pitt](https://github.com/assertchris/amas) - [Writer and coder](http://assertchris.io), working at [SilverStripe](http://www.silverstripe.org).
 - [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
-
+- [Hamish Friedlander](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 
 #### Ask these organizations anything!
 
