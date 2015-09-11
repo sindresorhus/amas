@@ -75,6 +75,7 @@
 - [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
 - [Hamish Friedlander](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 - [Chris Tankersley](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
+- [Deepak Verma](https://github.com/deepaknverma/ama) - Full Stack Developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about Photography [Flicker](https://www.flickr.com/photos/deepak-verma)
 
 #### Ask these organizations anything!
 
