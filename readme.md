@@ -45,7 +45,7 @@
 - [Hemanth.HM](https://github.com/hemanth/ama/) - A computer polyglot CLI, web and unix philosophy ❤️'r.
 - [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
 - [Rishabh Pugalia](https://github.com/rishabhp/ama) - Full stack engineer, creator of [CSSDeck](http://cssdeck.com).
-- [Bassam Ismail](https://github.com/skippednote/ama) - Front-end Architect at Axelerant. Polyglot. Unix & Tooling fanboi. 
+- [Bassam Ismail](https://github.com/skippednote/ama) - Front-end Architect at Axelerant. Polyglot. Unix & Tooling fanboi.
 - [Matthew Mueller](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 - [DeokHong Kim](https://github.com/insanehong/ama) - Front-end Engineer at NAVER, founder of [hackrslab](https://github.com/hackrslab).
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
@@ -61,7 +61,7 @@
 - [Honza Bittner](https://github.com/HoBi/ama) - High school student, web developer, Sass and Polymer ❤️'r.
 - [Jan Sanchez](https://github.com/jansanchez/ama) - Front-End Developer. Creator of Css-url-versioner, Open source contributor.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
-- [Richard Littauer](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk. 
+- [Richard Littauer](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
 - [Nick Johnstone](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 - [JD Ballard](https://github.com/Qix-/ama) - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexps), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
@@ -76,6 +76,7 @@
 - [Hamish Friedlander](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 - [Chris Tankersley](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 - [Deepak Verma](https://github.com/deepaknverma/ama) - Full Stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma).
+- [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux).
 
 
 #### Ask these organizations anything!
