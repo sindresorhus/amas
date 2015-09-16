@@ -77,7 +77,7 @@
 - [Chris Tankersley](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 - [Deepak Verma](https://github.com/deepaknverma/ama) - Full Stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma).
 - [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux).
-- [Daichi Furiya (Wasabeef)](https://github.com/wasabeef/ama) - Software Developer in Japan. I love Android, JavaScript and iOS.
+- [Daichi Furiya](https://github.com/wasabeef/ama) - Software Developer in Japan. I love Android, JavaScript and iOS. My nickname is [Wasabeef](https://github.com/wasabeef).
 
 #### Ask these organizations anything!
 
