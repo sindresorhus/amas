@@ -82,6 +82,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries](https://github.com/mourner/projects). Building the future of interactive maps.
 - [Claudio Procida](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
+- [Jordan Scales](https://github.com/jdan/ama) - Engineer at [Khan Academy](https://khanacademy.org), creator of the [tota11y](http://khan.github.io/tota11y) accessibility toolkit and [isomer](http://jdan.github.io/isomer).
 
 #### Ask these organizations anything!
 
