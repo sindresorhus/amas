@@ -84,6 +84,7 @@
 - [Claudio Procida](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
 - [Jordan Scales](https://github.com/jdan/ama) - Engineer at [Khan Academy](https://khanacademy.org), creator of the [tota11y](http://khan.github.io/tota11y) accessibility toolkit and [isomer](http://jdan.github.io/isomer).
 - [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+- [Kahlil Lechelt](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 
 #### Ask these organizations anything!
 
