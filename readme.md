@@ -86,6 +86,7 @@
 - [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 - [Vadim Demedes](https://github.com/vdemedes/ama) - Node.js addict.
+- [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
 
 #### Ask these organizations anything!
 
