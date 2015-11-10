@@ -89,6 +89,7 @@
 - [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
 - [Raymond Clanan](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
 - [MK Yuan](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
+- [Hong Liu](https://github.com/honglio/ama) - Freelancer Full-Stack Web Developer, Founder of [PresentBook](http://www.niukj.com)
 
 #### Ask these organizations anything!
 
