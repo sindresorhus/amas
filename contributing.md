@@ -13,6 +13,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Start the bio with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
+- The pull request and commit should have a useful title. Example: `Add Sindre Sorhus`
 
 Thank you for your suggestions!
