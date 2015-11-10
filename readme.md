@@ -90,6 +90,7 @@
 - [Raymond Clanan](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
 - [MK Yuan](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
 - [Hong Liu](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
+- [Arnaud Benard](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 
 
 #### Ask these organizations anything!
