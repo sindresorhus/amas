@@ -91,7 +91,7 @@
 - [MK Yuan](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
 - [Hong Liu](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
 - [Arnaud Benard](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
-
+- [Anthony Ramella](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 
 #### Ask these organizations anything!
 
