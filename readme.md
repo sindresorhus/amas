@@ -93,6 +93,7 @@
 - [Arnaud Benard](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 - [Anthony Ramella](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 - [Diki Andriansyah](https://github.com/dikiaap/ama) - Freelance full stack developer. Laravel addict.
+- [Steel Brain](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
 
 #### Ask these organizations anything!
 
