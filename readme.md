@@ -96,6 +96,7 @@
 - [Steel Brain](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
 - [CJ Patoilo](https://github.com/cjpatoilo/ama) - Front-End Engineer, JavaScript Evangelist, [DEV IO](https://github.com/deviofor) Co-Founder.
 - [Armagan Amcalar](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
+- [Breno Polanski](https://github.com/brenopolanski/ama) - Front End Software Engineer at [Meteorite BI](http://www.meteorite.bi).
 
 #### Ask these organizations anything!
 
