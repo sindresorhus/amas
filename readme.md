@@ -98,6 +98,7 @@
 - [Armagan Amcalar](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 - [Breno Polanski](https://github.com/brenopolanski/ama) - Front End Software Engineer at [Meteorite BI](http://www.meteorite.bi).
 - [Camilo Nova](https://github.com/camilonova/ama) - Full Stack Software Developer in Colombia.
+- [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 
 #### Ask these organizations anything!
 
