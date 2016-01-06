@@ -99,6 +99,7 @@
 - [Breno Polanski](https://github.com/brenopolanski/ama) - Front End Software Engineer at [Meteorite BI](http://www.meteorite.bi).
 - [Camilo Nova](https://github.com/camilonova/ama) - Full Stack Software Developer in Colombia.
 - [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
+- [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-End Engineer, JavaScript Enthusiast and [Code Mentor](http://codementor.io/seth).
 
 #### Ask these organizations anything!
 
