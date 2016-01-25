@@ -108,7 +108,7 @@
 - [Ruby Taiwan](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 - [DevOps Taiwan](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
 - [Vim Taiwan](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
-
+- [From The Front](https://github.com/fromthefront/ama) - No-profit organisation taking care of the homonymous Italian front end conference series.
 
 -
 
