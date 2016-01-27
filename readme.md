@@ -100,6 +100,7 @@
 - [Camilo Nova](https://github.com/camilonova/ama) - Full Stack Software Developer in Colombia.
 - [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-End Engineer, JavaScript Enthusiast and [Code Mentor](http://codementor.io/seth).
+- [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 
 #### Ask these organizations anything!
 
