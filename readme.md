@@ -101,6 +101,7 @@
 - [Jon Moss](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-End Engineer, JavaScript Enthusiast and [Code Mentor](http://codementor.io/seth).
 - [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
+- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 
 #### Ask these organizations anything!
 
