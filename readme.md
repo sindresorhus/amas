@@ -102,7 +102,8 @@
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-End Engineer, JavaScript Enthusiast and [Code Mentor](http://codementor.io/seth).
 - [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
-
+- [Rob Thomas](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evanglist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com/)
+- 
 #### Ask these organizations anything!
 
 - [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
