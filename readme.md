@@ -103,7 +103,7 @@
 - [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
-
+- [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
 
 #### Ask these organizations anything!
 
