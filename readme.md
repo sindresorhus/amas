@@ -104,6 +104,7 @@
 - [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
 - [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
+- [William Oliveira](https://github.com/woliveiras/ama) - Front End Developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Look more about me on [my blog](http://woliveiras.com.br)
 
 #### Ask these organizations anything!
 
