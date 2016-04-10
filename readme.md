@@ -106,6 +106,7 @@
 - [William Oliveira](https://github.com/woliveiras/ama) - Front End Developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+- [Danilo Vaz](https://github.com/danilovaz/ama) - Front End Developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC](https://github.com/beerjs/sjc) organizer.
 
 #### Ask these organizations anything!
 
