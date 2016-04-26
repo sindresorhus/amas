@@ -108,6 +108,7 @@
 - [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC](https://github.com/beerjs/sjc) organizer.
 - [Adrian Mejia](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+- [Jon Kuperman](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
 
 #### Ask these organizations anything!
 
