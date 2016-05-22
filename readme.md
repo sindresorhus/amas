@@ -17,7 +17,6 @@
 - [Wes Bos](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 - [Anselm Hannemann](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 - [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
-- [Paul Miller](https://github.com/paulmillr/ama) - Creator of Brunch.io, Chaplin, es6-shim and many npm packages. Entrepreneur & frequent traveler.
 - [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
 - [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
 - [Darrin Henein](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
