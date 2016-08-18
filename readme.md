@@ -110,6 +110,7 @@
 - [Jon Kuperman](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
 - [Max Stoiber](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS](https://github.com/keystonejs/keystone) and [ElementalUI](https://github.com/elementalui/elemental). Creator of [react-boilerplate](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 - [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+- [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 
 #### Ask these organizations anything!
 
