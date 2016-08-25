@@ -113,6 +113,7 @@
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 - [Jeroen Engels](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
 - [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
+- [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 
 #### Ask these organizations anything!
 
