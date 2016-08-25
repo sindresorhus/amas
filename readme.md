@@ -112,6 +112,7 @@
 - [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 - [Jeroen Engels](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
+- [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 
 #### Ask these organizations anything!
 
