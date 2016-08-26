@@ -114,7 +114,7 @@
 - [Jeroen Engels](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
 - [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 - [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
-- [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything.
+- [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
 
 #### Ask these organizations anything!
 
