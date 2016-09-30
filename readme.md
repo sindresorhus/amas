@@ -116,6 +116,7 @@
 - [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 - [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
 - [Arjun Mayilvaganan](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
+- [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
 #### Ask these organizations anything!
 
