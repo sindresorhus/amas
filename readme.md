@@ -67,7 +67,7 @@
 - [Mohamad Jahani](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
 - [Justin Miller](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
-- [Kayla Daniels](https://github.com/kayladnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single mom. Brooklyn, NY.
+- [Graham Daniels](https://github.com/greydnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 - [Jeff Carouth](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
 - [Matthew Turland](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
 - [Christopher Pitt](https://github.com/assertchris/amas) - [Writer and coder](http://assertchris.io), working at [SilverStripe](http://www.silverstripe.org).
