@@ -117,6 +117,7 @@
 - [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
 - [Arjun Mayilvaganan](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
 - [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
+- [Michael Novotny](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
 
 #### Ask these organizations anything!
 
