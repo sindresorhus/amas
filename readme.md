@@ -57,7 +57,7 @@
 - [Chris Missal](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
 - [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 - [Rob Furlong](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
-- [Honza Bittner](https://github.com/HoBi/ama) - Developer at [Nottelo](http://nottelo.com), high school student, Sass and Angular 2 lover.
+- [Honza Bittner](https://github.com/HoBi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Sass and Angular 2 lover, INTJ.
 - [Jan Sanchez](https://github.com/jansanchez/ama) - Front-end developer. Creator of css-url-versioner, open source contributor.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
 - [Richard Littauer](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
