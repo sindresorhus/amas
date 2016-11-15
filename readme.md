@@ -119,6 +119,7 @@
 - [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 - [Michael Novotny](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
 - [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist) and passionate photographer.
+- [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 
 #### Ask these organizations anything!
 
