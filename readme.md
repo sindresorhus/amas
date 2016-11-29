@@ -121,6 +121,7 @@
 - [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist) and passionate photographer.
 - [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
+- [Chris 'Freddy' Getsfred](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, Javascript lover, new open source contributer, former script nerd, former technology instructor.
 
 #### Ask these organizations anything!
 
