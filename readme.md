@@ -122,6 +122,7 @@
 - [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
 - [Chris 'Freddy' Getsfred](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
+- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer.
 
 #### Ask these organizations anything!
 
