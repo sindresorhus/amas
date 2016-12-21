@@ -125,7 +125,7 @@
 - [Seth Holladay](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer.
 - [Sitesh Shrivastava](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
-- [Zach Leatherman](https://github.com/zachleat/ama) - I have a beard sometimes
+- [Zach Leatherman](https://github.com/zachleat/ama) - I have a beard sometimes.
 
 #### Ask these organizations anything!
 
