@@ -126,6 +126,7 @@
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer.
 - [Sitesh Shrivastava](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
 - [Zach Leatherman](https://github.com/zachleat/ama) - I have a beard sometimes.
+- [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 
 #### Ask these organizations anything!
 
