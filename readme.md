@@ -92,7 +92,7 @@
 - [Anthony Ramella](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 - [Diki Andriansyah](https://github.com/dikiaap/ama) - Freelance full stack developer. Laravel addict.
 - [Steel Brain](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
-- [CJ Patoilo](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofor) Co-Founder.
+- [CJ Patoilo](https://github.com/cjpatoilo/ama) - Life Hacker based in Brazil. Creator of [Milligram](https://milligram.github.io) and more a bunch of other stuff.
 - [Armagan Amcalar](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 - [Breno Polanski](https://github.com/brenopolanski/ama) - Front-end software engineer at [Meteorite BI](http://www.meteorite.bi).
 - [Camilo Nova](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
