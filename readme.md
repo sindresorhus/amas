@@ -125,6 +125,7 @@
 - [Zach Leatherman](https://github.com/zachleat/ama) - I have a beard sometimes.
 - [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 - [Travis Northcutt](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
+- [Olavi Haapala](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
 
 #### Ask these organizations anything!
 
