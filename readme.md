@@ -126,6 +126,7 @@
 - [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 - [Travis Northcutt](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 - [Olavi Haapala](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
+- [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 
 #### Ask these organizations anything!
 
