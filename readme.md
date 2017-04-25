@@ -127,6 +127,7 @@
 - [Travis Northcutt](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 - [Olavi Haapala](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
+- [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 
 #### Ask these organizations anything!
 
