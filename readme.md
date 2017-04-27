@@ -128,6 +128,7 @@
 - [Olavi Haapala](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild.
+- [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
 
 #### Ask these organizations anything!
 
