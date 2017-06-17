@@ -131,6 +131,7 @@
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
 - [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 - [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
+- [Matt Seemon](https://github.com/mattseemon/amas) - Voice Over Artist, Karaoke Jockey, Amateur Actor, Compère, IT Enthusiast
 
 #### Ask these organizations anything!
 
