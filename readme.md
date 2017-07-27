@@ -134,6 +134,7 @@
 - [Matt Seemon](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
 - [Hasan Bayat](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source.
+- [Stéphane Hulard](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, Full-Stack developer who loves playing with PHP.
 
 #### Ask these organizations anything!
 
