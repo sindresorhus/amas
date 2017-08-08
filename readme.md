@@ -136,6 +136,7 @@
 - [Hasan Bayat](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source.
 - [Stéphane Hulard](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.
 - [Scott Hanselman](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
+- [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
 
 #### Ask these organizations anything!
 
