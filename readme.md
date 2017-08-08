@@ -135,6 +135,7 @@
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
 - [Hasan Bayat](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source.
 - [Stéphane Hulard](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.
+- [Scott Hanselman](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
 
 #### Ask these organizations anything!
 
