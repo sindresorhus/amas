@@ -138,6 +138,7 @@
 - [Scott Hanselman](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
 - [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
 - [Lizzie Siegle](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
+- [Sami CHNITER](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
 
 #### Ask these organizations anything!
 
