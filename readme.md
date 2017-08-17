@@ -139,6 +139,7 @@
 - [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
 - [Lizzie Siegle](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
 - [Sami CHNITER](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
+- [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
 
 #### Ask these organizations anything!
 
