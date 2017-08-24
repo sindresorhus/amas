@@ -141,6 +141,7 @@
 - [Sami CHNITER](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
 - [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
 - [Krzysztof Cieslak](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker. 
+- [Benjamin Reitzammer](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
 
 #### Ask these organizations anything!
 
