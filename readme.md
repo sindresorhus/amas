@@ -144,6 +144,7 @@
 - [Benjamin Reitzammer](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
 - [Jiri Cincura](https://github.com/cincuranet/ama) - Developer, speaker, blogger, runner and yogi.
 - [Clark Weckmann](https://github.com/clarkhacks/ama) - Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.
+- [Kevin Jalbert](https://github.com/kevinjalbert/ama) - Software Engineer coding with React/Rails at [theScore](http://mobile.thescore.com/careers/). 
 
 #### Ask these organizations anything!
 
