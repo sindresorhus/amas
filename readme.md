@@ -5,6 +5,7 @@
 #### Ask these people anything!
 
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+- [Yoginth](https://github.com/yoginth/ama) - Co-founder of Chef Labs, Open Source Bae.
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
