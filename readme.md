@@ -142,7 +142,6 @@
 - [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
 - [Krzysztof Cieslak](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker. 
 - [Benjamin Reitzammer](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
-- [Jiri Cincura](https://github.com/cincuranet/ama) - Developer, speaker, blogger, runner and yogi.
 - [Clark Weckmann](https://github.com/clarkhacks/ama) - Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.
 - [Kevin Jalbert](https://github.com/kevinjalbert/ama) - Software Engineer coding with React/Rails at [theScore](http://mobile.thescore.com/careers/). 
 - [Sean Killeen](https://github.com/SeanKilleen/ama) - Senior consultant, speaker, tech lead, and .NET Xpert @excellaco. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
