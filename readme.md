@@ -146,6 +146,7 @@
 - [Kevin Jalbert](https://github.com/kevinjalbert/ama) - Software Engineer coding with React/Rails at [theScore](http://mobile.thescore.com/careers/). 
 - [Sean Killeen](https://github.com/SeanKilleen/ama) - Senior consultant, speaker, tech lead, and .NET Xpert @excellaco. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 - [Tobias Kienzler](https://github.com/zommuter/ama) - Physicist, programmer, parent.
+- [Juha Lindstedt](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
 
 #### Ask these organizations anything!
 
