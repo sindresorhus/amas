@@ -148,6 +148,7 @@
 - [Tobias Kienzler](https://github.com/zommuter/ama) - Physicist, programmer, parent.
 - [Juha Lindstedt](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
 - [Yoginth](https://github.com/YoginthS/AMA) - Creator of [VotePen](https://github.com/VotePen). Open-source & infrastructure enthusiast. Issue resolver. Loves Spotify and code.
+- [Rifat Nabi](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
 
 #### Ask these organizations anything!
 
