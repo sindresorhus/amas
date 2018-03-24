@@ -7,7 +7,7 @@
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 - [Pascal Hartig](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
-- [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
+- [Praveen Kumar Purushothaman](https://github.com/praveenscience/ama) - Full Stack Developer, Cat Lover, Cook. [Website](https://praveen.science/).
 - [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 - [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
@@ -28,7 +28,6 @@
 - [Vishnu Ks](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 - [Nick Desaulniers](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
 - [Henry Snopek](https://github.com/hhsnopek/ama) - Front-end developer, university student.
-- [Jesse cogollo](https://github.com/jessecogollo/ama) - Student at EAFIT. JavaScript developer at Talos Digital and Co-organizer at MongoDB-Medellin.
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - Geometry vagrant.
 - [Drew Minns](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
 - [Heather Payne](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
