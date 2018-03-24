@@ -146,6 +146,7 @@
 - [Kevin Jalbert](https://github.com/kevinjalbert/ama) - Software Engineer coding with React/Rails at [theScore](http://mobile.thescore.com/careers/). 
 - [Sean Killeen](https://github.com/SeanKilleen/ama) - Senior consultant, speaker, tech lead, and .NET Xpert @excellaco. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 - [Tobias Kienzler](https://github.com/zommuter/ama) - Physicist, programmer, parent.
+- [Rifat Nabi](https://github.com/torifat/ama) - Front-end developer and Open-source enthusiast.
 
 #### Ask these organizations anything!
 
