@@ -93,7 +93,8 @@
 - [Seth Alexander](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
-- [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
+- [Amit Merchant](https://github.com/amitmerchant1990/ama) - 
+developer working with JavaScript, PHP and Java.
 - [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
@@ -144,7 +145,7 @@
 - [Yoginth](https://github.com/YoginthS/AMA) - Creator of [VotePen](https://github.com/VotePen). Open-source & infrastructure enthusiast. Issue resolver. Loves Spotify and code.
 - [Rifat Nabi](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
-[Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full Stack Developer, JavaScript <3, tabs over spaces, open source enthusiast
+- [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 
 #### Ask these organizations anything!
 
