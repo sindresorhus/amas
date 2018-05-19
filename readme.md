@@ -145,6 +145,7 @@
 - [Rifat Nabi](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
 - [Md Eftakhairul Islam](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
+- [Rishi Pithadiya](https://github.com/rishiip/ama) - Full stack Ruby on Rails developer in India, open source enthusiast.
 
 #### Ask these organizations anything!
 
