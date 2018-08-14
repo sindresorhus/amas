@@ -146,6 +146,7 @@
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
 - [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+- [Ali Spittel](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
 #### Ask these organizations anything!
 
