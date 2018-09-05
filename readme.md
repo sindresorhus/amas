@@ -147,6 +147,7 @@
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
 - [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 - [Ali Spittel](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
+- [Khen Daniel](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
 #### Ask these organizations anything!
 
