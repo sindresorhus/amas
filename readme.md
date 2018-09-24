@@ -148,6 +148,7 @@
 - [Byungjin Park](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 - [Ali Spittel](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 - [Khen Daniel](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
+- [Riza Fahmi](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
 
 #### Ask these organizations anything!
 
