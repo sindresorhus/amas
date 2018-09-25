@@ -149,6 +149,7 @@
 - [Ali Spittel](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 - [Khen Daniel](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 - [Riza Fahmi](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
+- [Sergey 🦉 Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
 
 #### Ask these organizations anything!
 
