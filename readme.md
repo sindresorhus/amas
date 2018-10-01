@@ -150,7 +150,7 @@
 - [Khen Daniel](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 - [Riza Fahmi](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
 - [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
-- [Omar Bahareth](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, Full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+- [Omar Bahareth](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
 #### Ask these organizations anything!
 
