@@ -163,8 +163,8 @@
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
-
-
+- [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - Engineering manager on the Chrome team at Google leading up Web Performance.
+- [Rob Dodson](https://hashnode.com/ama/with-rob-dodson-cjiofjep90001l9vpzt7tpja3) - Developer Advocate at Google working with the Polymer and Chrome teams.
 ---
 
 #### [Create your own AMA!](create-ama.md)
