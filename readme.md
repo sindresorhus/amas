@@ -151,6 +151,8 @@
 - [Riza Fahmi](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
 - [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
 - [Omar Bahareth](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+- [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - Engineering manager on the Chrome team at Google leading up Web Performance.
+- [Rob Dodson](https://hashnode.com/ama/with-rob-dodson-cjiofjep90001l9vpzt7tpja3) - Developer Advocate at Google working with the Polymer and Chrome teams.
 
 #### Ask these organizations anything!
 
@@ -163,8 +165,6 @@
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
-- [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - Engineering manager on the Chrome team at Google leading up Web Performance.
-- [Rob Dodson](https://hashnode.com/ama/with-rob-dodson-cjiofjep90001l9vpzt7tpja3) - Developer Advocate at Google working with the Polymer and Chrome teams.
 ---
 
 #### [Create your own AMA!](create-ama.md)
