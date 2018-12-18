@@ -154,7 +154,7 @@
 - [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - Engineering manager on the Chrome team at Google leading up Web Performance.
 - [CY Lim](https://github.com/cylim/ama) - Full-stack JavaScript digital nomad.
 - [Hamza Baig](https://github.com/hamxabaig/ama) - Full-stack JavaScript engineer. Passionate about Artificial Intelligence.
-- [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate @ npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more
+- [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 
 #### Ask these organizations anything!
 
