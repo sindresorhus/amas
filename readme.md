@@ -1,6 +1,7 @@
 # Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
+> [Check out Sindre Sorhus's ama repo for awesome ama's!](https://github.com/sindresorhus/amas)
 
 #### Ask these people anything!
 
