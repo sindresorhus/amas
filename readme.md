@@ -120,7 +120,7 @@
 - [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 - [Travis Northcutt](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 - [Olavi Haapala](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
-- [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
+- [Manu Sunny](https://github.com/manupsunny/ama) - Backend .NET/Java Developer.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
 - [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
