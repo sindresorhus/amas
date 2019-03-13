@@ -158,6 +158,7 @@
 - [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
 - [Brad Garropy](https://github.com/bradgarropy/ama) - Python DevOps at [Dell](https://www.delltechnologies.com) by day, whiskey and JavaScript by night.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+- [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 
 #### Ask these organizations anything!
 
