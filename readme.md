@@ -159,7 +159,7 @@
 - [Brad Garropy](https://github.com/bradgarropy/ama) - Python DevOps at [Dell](https://www.delltechnologies.com) by day, whiskey and JavaScript by night.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
-
+- [Evan You](https://hashnode.com/post/i-am-evan-you-ask-me-anything-cilauq0uu0027tl53gsjkhbmd) - Evan You is the author of [Vue.js](https://vuejs.org/) and previously he used to work for Meteor and Google.
 #### Ask these organizations anything!
 
 - [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
