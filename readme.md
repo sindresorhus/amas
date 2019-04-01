@@ -159,7 +159,7 @@
 - [Brad Garropy](https://github.com/bradgarropy/ama) - Python DevOps at [Dell](https://www.delltechnologies.com) by day, whiskey and JavaScript by night.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
-- [Even Stensberg](https://github/evenstensberg/ama) - OSS contributor and developer.
+- [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
 #### Ask these organizations anything!
 
