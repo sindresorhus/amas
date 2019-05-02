@@ -161,6 +161,7 @@
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
+- [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
 
 #### Ask these organizations anything!
 
