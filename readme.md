@@ -160,7 +160,8 @@
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
-- [Frances Coronel](https://github.com/fvcproductions/ama) - Open Source Enthusiast, Software Engineer at Slack, Board Member of Techqueria.org.
+- [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
+- [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
 
 #### Ask these organizations anything!
 
