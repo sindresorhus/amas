@@ -162,6 +162,7 @@
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 - [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
+- [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba. 
 
 #### Ask these organizations anything!
 
