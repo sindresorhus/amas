@@ -163,6 +163,7 @@
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 - [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
 - [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba. 
+- [KimSia Sim](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com).
 
 #### Ask these organizations anything!
 
