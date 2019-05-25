@@ -156,7 +156,7 @@
 - [Hamza Baig](https://github.com/hamxabaig/ama) - Full-stack JavaScript engineer. Passionate about Artificial Intelligence.
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 - [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
-- [Brad Garropy](https://github.com/bradgarropy/ama) - Python DevOps at [Dell](https://www.delltechnologies.com) by day, whiskey and JavaScript by night.
+- [Brad Garropy](https://bradgarropy.com/uses) - self taught ⚛ frontender @ [adobe](https://www.adobe.com/). [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy). 📝📺🐦
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
