@@ -165,6 +165,7 @@
 - [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
 - [KimSia Sim](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
 - [Jim Lesperance](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
+- [Greg Edelston](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 
 #### Ask these organizations anything!
 
