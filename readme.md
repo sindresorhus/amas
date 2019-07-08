@@ -166,6 +166,7 @@
 - [KimSia Sim](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
 - [Jim Lesperance](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
 - [Greg Edelston](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
+- [Chris Otto](https://github.com/chrisotto6/ama) - Test Engineer, creator of [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) and [Blogger](https://www.chrisotto.tech) 
 
 #### Ask these organizations anything!
 
