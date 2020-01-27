@@ -168,6 +168,7 @@
 - [Greg Edelston](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 - [Chris Otto](https://github.com/chrisotto6/ama) - Test Engineer, creator of [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) and [blogger](https://www.chrisotto.tech).
 - [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
+- [Ale Muñoz](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
 
 #### Ask these organizations anything!
 
