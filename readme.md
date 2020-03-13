@@ -169,6 +169,7 @@
 - [Chris Otto](https://github.com/chrisotto6/ama) - Test Engineer, creator of [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) and [blogger](https://www.chrisotto.tech).
 - [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
 - [Ale Muñoz](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
+- [Imed Jaberi](https://github.com/3imed-jaberi/ama) - JavaScript dev, mentor, open source contributor, community builder, and speaker.
 
 #### Ask these organizations anything!
 
