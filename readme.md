@@ -170,7 +170,7 @@
 - [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
 - [Ale Muñoz](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
 - [Imed Jaberi](https://github.com/3imed-jaberi/ama) - JavaScript dev, mentor, open source contributor, community builder, and speaker.
-- [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com)
+- [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
 
 #### Ask these organizations anything!
 
