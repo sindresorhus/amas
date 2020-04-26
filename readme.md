@@ -172,6 +172,7 @@
 - [Imed Jaberi](https://github.com/3imed-jaberi/ama) - JavaScript dev, mentor, open source contributor, community builder, and speaker.
 - [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
 - [Yohix](https://github.com/yohix/ama) - iOS and web developer, open-source tool maker, loves coffee and music, he/him.
+- [Ittussarom Ynohtna](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
 #### Ask these organizations anything!
 
