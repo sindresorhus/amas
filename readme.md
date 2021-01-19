@@ -173,7 +173,7 @@
 - [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
 - [Yohix](https://github.com/yohix/ama) - iOS and web developer, open-source tool maker, loves coffee and music, he/him.
 - [Ittussarom Ynohtna](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
-- [Lalisfeed](https://github.com/Lalisfeed/ama) - Fabulous creator of [Lalisfeed](https://github.com/Lalisfeed/), includes releases from Web to AI.
+- [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creator of [Lalisfeed](https://github.com/Lalisfeed), includes releases from Web to AI.
 
 #### Ask these organizations anything!
 
