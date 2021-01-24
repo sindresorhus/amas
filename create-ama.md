@@ -1,6 +1,6 @@
 # Create your own AMA!
 
-- [Fork](https://github.com/sindresorhus/ama/fork) my AMA or copy paste its [readme](https://raw.githubusercontent.com/sindresorhus/ama/master/readme.md) into new repo.
+- [Fork](https://github.com/sindresorhus/ama/fork) my AMA or copy paste its [readme](https://raw.githubusercontent.com/sindresorhus/ama/main/readme.md) into new repo.
 - Personalize the readme with your bio, what people can ask, website/twitter/etc links.
 - If you forked, you have to enable the issue tracker: `Settings` → `Features` → `☑ Issues`.
 - Add it to [this list](https://github.com/sindresorhus/amas). *(Please read the [contributing guidelines](contributing.md)).*
