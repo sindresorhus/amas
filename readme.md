@@ -1,6 +1,6 @@
 # Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
+> [AMA](https://en.wikipedia.org/wiki/R/IAmA) → Ask Me Anything
 
 #### Ask these people anything!
 
