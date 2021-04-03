@@ -57,6 +57,7 @@
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+- [Felipe Plets](https://github.com/felipeplets/ama) - Tech Lead, Open Source contributor and [blogger](https://plets.me/).
 - [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
 - [Francis Sunday](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
