@@ -174,6 +174,7 @@
 - [Yohix](https://github.com/yohix/ama) - iOS and web developer, open-source tool maker, loves coffee and music, he/him.
 - [Ittussarom Ynohtna](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 - [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
+- [Felipe Plets](https://github.com/felipeplets/ama) - Tech Lead, Open Source contributor and [blogger](https://plets.me/).
 
 #### Ask these organizations anything!
 
