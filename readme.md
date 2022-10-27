@@ -161,7 +161,7 @@
 - [Eduards Sizovs](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
-- [Frances Coronel](https://github.com/fvcproductions/ama) - Open source enthusiast, software engineer at Slack, board member of Techqueria.org.
+- [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
 - [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
 - [KimSia Sim](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
 - [Jim Lesperance](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
