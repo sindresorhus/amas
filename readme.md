@@ -174,6 +174,7 @@
 - [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 - [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
 - [Felipe Plets](https://github.com/felipeplets/ama) - Tech lead, open source contributor, and [blogger](https://plets.me).
+- [Angelo Pirola](https://github.com/angelodotnet/ama) - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
 
 #### Ask these organizations anything!
 
