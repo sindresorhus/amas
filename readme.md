@@ -176,6 +176,7 @@
 - [Felipe Plets](https://github.com/felipeplets/ama) - Tech lead, open source contributor, and [blogger](https://plets.me).
 - [Angelo Pirola](https://github.com/angelodotnet/ama) - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
 - [Can Tecim](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
+- [Jan-Hendrik Heuing](https://github.com/jheuing/ama) - Developer, team lead, CTO, consultant.
 
 #### Ask these organizations anything!
 
