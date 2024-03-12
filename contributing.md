@@ -9,7 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[Name](link) - Bio.`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
-- Start the bio with a capital and end with a full stop/period.
+- Start the bio with a capital and end with a full stop/period. No links or emojis.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title. Example: `Add Sindre Sorhus`
