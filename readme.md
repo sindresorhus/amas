@@ -192,6 +192,7 @@
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 - [S Fox Jones](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
+
 ---
 
 #### [Create your own AMA!](create-ama.md)
